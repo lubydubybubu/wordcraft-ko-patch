@@ -1,0 +1,7 @@
+ ROADMAP.md                       |    3 +-
+ crates/ui-egui/src/i18n/ko.tsv   | 2485 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ crates/ui-egui/src/i18n/mod.rs   |    8 +-
+ crates/ui-egui/src/i18n/tests.rs |  149 +++++++++-
+ docs/localization-ko.md          |  108 +++++++
+ docs/localization-parity.md      |   15 +-
+ 6 files changed, 2753 insertions(+), 15 deletions(-)
